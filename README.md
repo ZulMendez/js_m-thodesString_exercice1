@@ -1,1 +1,1 @@
-# js_m-thodesString_exercice1
+# js_methodesString_exercice1
